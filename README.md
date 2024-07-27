@@ -37,8 +37,8 @@ This project is an IT equipment request management system designed to streamline
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/it-equipment-request-management.git
-    cd it-equipment-request-management/frontend
+    git clone https://github.com/EmnaHasnewi/TechQuest.git
+    cd ./frontend
     ```
 
 2. Install dependencies:
