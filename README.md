@@ -55,7 +55,7 @@ This project is an IT equipment request management system designed to streamline
 
 1. Navigate to the backend directory:
     ```bash
-    cd ../backend
+    cd ../ManagementApp
     ```
 
 2. Configure the `application.yml` file with your MySQL database credentials.
@@ -69,7 +69,7 @@ This project is an IT equipment request management system designed to streamline
 
 1. Create a MySQL database:
     ```sql
-    CREATE DATABASE it_request_management;
+    CREATE DATABASE managementapp;
     ```
 
 2. Update the `application.yml` file with your database configuration.
